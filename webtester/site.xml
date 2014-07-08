@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Update site for Webtester" url="http://abc.com">
+      Update site for Webtester
+   </description>
+   <feature url="features/webtester.feature_2.4.0.201407081459.jar" id="webtester.feature" version="2.4.0.201407081459">
+      <category name="Test"/>
+   </feature>
+   <category-def name="Test" label="Webtester"/>
+</site>
