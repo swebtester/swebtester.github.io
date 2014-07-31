@@ -3,7 +3,7 @@
    <description name="Update site for Webtester" url="http://webida.github.io/webtester">
       Update site for Webtester
    </description>
-   <feature url="features/webtester.feature_2.4.0.201407311411.jar" id="webtester.feature" version="2.4.0.201407311411">
+   <feature url="features/webtester.feature_2.4.0.201407311418.jar" id="webtester.feature" version="2.4.0.201407311418">
       <category name="Test"/>
    </feature>
    <category-def name="Test" label="Webtester"/>
