@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Update site for Webtester" url="http://webida.github.io/webtester">
+   <description name="Update site for Webtester" url="http://webtester.github.io/webtester">
       Update site for Webtester
    </description>
-   <feature url="features/webtester.feature_2.5.2.201511111306.jar" id="webtester.feature" version="2.5.2.201511111306">
+   <feature url="features/webtester.feature_2.5.2.201511111337.jar" id="webtester.feature" version="2.5.2.201511111337">
       <category name="Test"/>
    </feature>
    <category-def name="Test" label="Webtester"/>
